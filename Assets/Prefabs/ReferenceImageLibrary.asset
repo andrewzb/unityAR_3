@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5184816488441864540
+  m_GuidHigh: 1847512694502315156
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4997178508924843321
+      m_GuidHigh: 12278141122384142737
+    m_SerializedTextureGuid:
+      m_GuidLow: 14795479875104625999
+      m_GuidHigh: 3738662371534977913
+    m_Size: {x: 0.1, y: 0.099609375}
+    m_SpecifySize: 1
+    m_Name: queen
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4977197395722965022
+      m_GuidHigh: 13917306244749820062
+    m_SerializedTextureGuid:
+      m_GuidLow: 14786512033973234960
+      m_GuidHigh: 17525690839174101448
+    m_Size: {x: 0.1, y: 0.100781254}
+    m_SpecifySize: 1
+    m_Name: rool
+    m_Texture: {fileID: 2800000, guid: 44036d103e5acd34c8394a90f6c237f3, type: 3}
